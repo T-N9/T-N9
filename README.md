@@ -5,8 +5,14 @@ A front-end developer who loves to craft and build web, a computer science stude
 ## “My goal is to deliver a front-end stack from scratch to well-performed websites.”
 I love to create UI designs and prototypes before implementations. Collaborations make me improve in both my technical skills and communication. I play and compose music during my spare time.
 
-[![tenyain's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-N9&theme=tokyonight)](https://github.com/T-N9/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=T-N9)](https://git.io/streak-stats)
+
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=T-N9&theme=tokyonight" />
+    <img width="49.5%" src="https://streak-stats.demolab.com/?user=T-N9" />
+</p>
+<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=T-N9&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
